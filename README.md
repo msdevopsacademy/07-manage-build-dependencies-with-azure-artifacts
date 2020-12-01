@@ -1,1 +1,22 @@
-# 07-manage-build-dependencies-with-azure-artifacts
+# Get started with Azure DevOps #
+
+Sunum dosyalarını **Slides** klasöründe bulabilirsiniz.
+
+Ödev:
+
+https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/
+
+adresindeki tüm adımların yapılması gerekiyor.
+
+Ödev kontrol için ödevin çıktılarının ekran görüntüleri alınması gerekmekte.
+Aşağıdaki eposta adresine ekran görüntülerini yollayabilirsiniz.
+
+Ödev göndermek için eposta adresimiz: 
+
+msdevopsacademy@outlook.com
+
+Sorularınızı:  
+
+https://github.com/msdevopsacademy/00-questions/issues
+
+Adresinden issue şeklinde açabilirsiniz. 
