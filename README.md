@@ -1,4 +1,4 @@
-# Get started with Azure DevOps #
+# Manage build dependencies with Azure Artifacts #
 
 Sunum dosyalarını **Slides** klasöründe bulabilirsiniz.
 
